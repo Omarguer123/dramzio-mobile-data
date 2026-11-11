@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "catalogUrl": "https://raw.githubusercontent.com/Omarguer123/dramzio-mobile-data/main/public/mobile/catalog.json",
+  "refreshMinutes": 15,
+  "ads": {
+    "enabled": false,
+    "testMode": true,
+    "interstitial": {
+      "enabled": true,
+      "unitId": "ca-app-pub-3940256099942544/1033173712",
+      "everyCompletions": 2,
+      "cooldownSeconds": 180,
+      "maxPerSession": 3
+    },
+    "rewarded": {
+      "enabled": true,
+      "unitId": "ca-app-pub-3940256099942544/5224354917",
+      "adFreeMinutes": 30
+    },
+    "sponsors": []
+  }
+}
